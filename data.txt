@@ -1,0 +1,1 @@
+user={"id":6991343595,"first_name":"Boss🦴","last_name":"Bokek","username":"bossbokek","language_code":"id","allows_write_to_pm":true}&auth_date=1723969194&hash=61283d15f7840bc364c72e73d54fc87fa1db000eb05e738a6dea0d152636f9c4
